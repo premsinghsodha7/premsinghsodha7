@@ -4,6 +4,12 @@
 
 I build Android applications and enjoy turning product ideas into clear, reliable mobile experiences. My current portfolio work focuses on modern Compose UI, reusable components, and maintainable app structure.
 
+## Project gallery
+
+![Selected Kotlin Android project previews](assets/portfolio-overview.jpg)
+
+*Portfolio mockups composed from the current Compose layouts and sample content.*
+
 ## Featured work
 
 | Project | What it explores | Status |
