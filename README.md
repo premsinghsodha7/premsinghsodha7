@@ -6,20 +6,20 @@ I build Android applications and enjoy turning product ideas into clear, reliabl
 
 ## Project gallery
 
-![Selected Kotlin Android project previews](assets/portfolio-overview.jpg)
+![Four Kotlin Android apps captured on a Pixel 9 Pro emulator](assets/portfolio-overview.jpg)
 
-*Portfolio mockups composed from the current Compose layouts and sample content.*
+*Live app screens captured from a Pixel 9 Pro emulator running Android 15 (API 35). Sample data only.*
 
 ## Featured work
 
 | Project | What it explores | Status |
 | --- | --- | --- |
-| [FintechFlow](https://github.com/premsinghsodha7/FintechFlow) | Multi-screen Compose banking demo with searchable activity, validated transfers, and in-memory state | Complete |
-| [ComposeKit](https://github.com/premsinghsodha7/ComposeKit) | Themed Compose component library with a runnable demo app and amount validation | Complete |
-| [PantryPal](https://github.com/premsinghsodha7/PantryPal) | Offline-first pantry inventory with Room storage, expiry insights, search, and category filters | Complete |
-| [HabitGarden](https://github.com/premsinghsodha7/HabitGarden) | On-device habit tracker with daily check-ins, streaks, and progress tracking | Complete |
+| [FintechFlow](https://github.com/premsinghsodha7/FintechFlow) | Compose banking demo with filtered activity, validated transfers, spending insights, card controls, and theme palettes | Complete |
+| [ComposeKit](https://github.com/premsinghsodha7/ComposeKit) | Finance UI component library with reusable account, card, budget, transfer, fee, and category components | Complete |
+| [PantryPal](https://github.com/premsinghsodha7/PantryPal) | Offline-first pantry with expiry tracking, shopping list, meal planner, search, filters, and three palettes | Complete |
+| [HabitGarden](https://github.com/premsinghsodha7/HabitGarden) | On-device habit tracker with daily check-ins, weekly insights, theme choices, and reminder settings | Complete |
 
-All four projects include runnable Android apps, unit tests, and GitHub Actions builds. Data stays local in the demo apps; no financial integrations are connected.
+All four projects are Kotlin and Jetpack Compose apps with runnable demos, focused features, and GitHub Actions builds. Data stays local in the demo apps; no financial integrations are connected.
 
 ## Current focus
 
