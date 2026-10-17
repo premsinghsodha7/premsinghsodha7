@@ -1,8 +1,8 @@
 # Hi, I'm Prem 👋
 
-**Android Developer · Kotlin · Jetpack Compose**
+**Android & Kotlin Multiplatform Developer · Kotlin · Compose**
 
-I build Android applications and enjoy turning product ideas into clear, reliable mobile experiences. My current portfolio work focuses on modern Compose UI, reusable components, and maintainable app structure.
+I build Kotlin mobile apps and enjoy turning product ideas into clear, reliable experiences. My portfolio explores polished Compose interfaces, reusable components, and shared Kotlin Multiplatform UI.
 
 ## Project gallery
 
@@ -18,8 +18,10 @@ I build Android applications and enjoy turning product ideas into clear, reliabl
 | [ComposeKit](https://github.com/premsinghsodha7/ComposeKit) | Finance UI component library with reusable account, card, budget, transfer, fee, and category components | Complete |
 | [PantryPal](https://github.com/premsinghsodha7/PantryPal) | Offline-first pantry with expiry tracking, shopping list, meal planner, search, filters, and three palettes | Complete |
 | [HabitGarden](https://github.com/premsinghsodha7/HabitGarden) | On-device habit tracker with daily check-ins, weekly insights, theme choices, and reminder settings | Complete |
+| [FintechFlowKMP](https://github.com/premsinghsodha7/FintechFlowKMP) | Compose Multiplatform finance dashboard with shared Android, iOS framework, and desktop UI | Complete |
+| [HabitGardenKMP](https://github.com/premsinghsodha7/HabitGardenKMP) | Shared habit companion with check-ins, streak insights, and Meadow, Sky, and Dusk themes | Complete |
 
-All four projects are Kotlin and Jetpack Compose apps with runnable demos, focused features, and GitHub Actions builds. Data stays local in the demo apps; no financial integrations are connected.
+The four Android apps use Kotlin and Jetpack Compose. The two Kotlin Multiplatform projects share Compose UI across Android, iOS framework targets, and desktop. All demos use local or fictional data; no real financial integrations are connected.
 
 ## Current focus
 
