@@ -8,10 +8,10 @@ I build Android applications and enjoy turning product ideas into clear, reliabl
 
 | Project | What it explores | Status |
 | --- | --- | --- |
-| [FintechFlow](https://github.com/premsinghsodha7/FintechFlow) | Fictional banking dashboard with a Kotlin + Compose starter and sample-only transaction data | In progress |
-| [ComposeKit](https://github.com/premsinghsodha7/ComposeKit) | Reusable Compose components for financial app interfaces | In progress |
+| [FintechFlow](https://github.com/premsinghsodha7/FintechFlow) | Multi-screen Compose banking demo with searchable activity, validated transfers, and in-memory state | Complete |
+| [ComposeKit](https://github.com/premsinghsodha7/ComposeKit) | Themed Compose component library with a runnable demo app and amount validation | Complete |
 
-Both projects are early portfolio starters. They use fictional data and have no live financial integrations.
+Both projects include runnable Android apps, unit tests, and GitHub Actions builds. They use fictional data and have no live financial integrations.
 
 ## Current focus
 
