@@ -6,7 +6,7 @@ I build Android applications and enjoy turning product ideas into clear, reliabl
 
 ## Project gallery
 
-![Four Kotlin Android apps captured on a Pixel 9 Pro emulator](https://raw.githubusercontent.com/premsinghsodha7/premsinghsodha7/main/assets/portfolio-overview.jpg)
+![Four Kotlin Android apps captured on a Pixel 9 Pro emulator](https://raw.githubusercontent.com/premsinghsodha7/premsinghsodha7/ce7c2b1318db61b736737d1844930e6c608e2143/assets/portfolio-overview.jpg)
 
 *Live app screens captured from a Pixel 9 Pro emulator running Android 15 (API 35). Sample data only.*
 
