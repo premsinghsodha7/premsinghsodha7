@@ -10,8 +10,10 @@ I build Android applications and enjoy turning product ideas into clear, reliabl
 | --- | --- | --- |
 | [FintechFlow](https://github.com/premsinghsodha7/FintechFlow) | Multi-screen Compose banking demo with searchable activity, validated transfers, and in-memory state | Complete |
 | [ComposeKit](https://github.com/premsinghsodha7/ComposeKit) | Themed Compose component library with a runnable demo app and amount validation | Complete |
+| [PantryPal](https://github.com/premsinghsodha7/PantryPal) | Offline-first pantry inventory with Room storage, expiry insights, search, and category filters | Complete |
+| [HabitGarden](https://github.com/premsinghsodha7/HabitGarden) | On-device habit tracker with daily check-ins, streaks, and progress tracking | Complete |
 
-Both projects include runnable Android apps, unit tests, and GitHub Actions builds. They use fictional data and have no live financial integrations.
+All four projects include runnable Android apps, unit tests, and GitHub Actions builds. Data stays local in the demo apps; no financial integrations are connected.
 
 ## Current focus
 
