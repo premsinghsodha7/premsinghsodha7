@@ -9,6 +9,10 @@
   &nbsp;·&nbsp;
   <a href="https://premsinghsodha7.medium.com/">Medium</a>
   &nbsp;·&nbsp;
+  <a href="https://dev.to/prem_singh_1997">DEV</a>
+  &nbsp;·&nbsp;
+  <a href="https://hashnode.com/@prem1997">Hashnode</a>
+  &nbsp;·&nbsp;
   <a href="https://github.com/premsinghsodha7?tab=repositories">All repositories</a>
 </p>
 
@@ -106,6 +110,8 @@ All six projects use Kotlin. The Android apps are built with Jetpack Compose; th
 
 <a href="https://www.linkedin.com/in/premsinghsodha7/">LinkedIn</a> &nbsp;·&nbsp;
 <a href="https://premsinghsodha7.medium.com/">Medium</a> &nbsp;·&nbsp;
+<a href="https://dev.to/prem_singh_1997">DEV</a> &nbsp;·&nbsp;
+<a href="https://hashnode.com/@prem1997">Hashnode</a> &nbsp;·&nbsp;
 <a href="https://github.com/premsinghsodha7?tab=repositories">Browse my public repositories</a>
 
 <p align="center"><sub>Thanks for stopping by — explore a project and see what we're building with Kotlin.</sub></p>
