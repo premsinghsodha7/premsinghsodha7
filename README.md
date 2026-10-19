@@ -1,117 +1,161 @@
-<!-- Profile README for premsinghsodha7/premsinghsodha7 -->
+# Hi, I'm Prem Singh 👋
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/premsinghsodha7/premsinghsodha7/main/assets/profile-banner.svg" alt="Prem Singh — Android, Kotlin Multiplatform, and Compose" width="100%">
-</p>
+**Lead Mobile Engineer · Android & Kotlin · Jetpack Compose · Kotlin Multiplatform**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/premsinghsodha7/">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="https://premsinghsodha7.medium.com/">Medium</a>
-  &nbsp;·&nbsp;
-  <a href="https://dev.to/prem_singh_1997">DEV</a>
-  &nbsp;·&nbsp;
-  <a href="https://hashnode.com/@prem1997">Hashnode</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/premsinghsodha7?tab=repositories">All repositories</a>
-</p>
+Based in Dubai, UAE · Building Android and cross-platform apps at **Synechron**
 
-<h1 align="center">Hi, I'm Prem 👋</h1>
+[LinkedIn](https://www.linkedin.com/in/premsinghsodha7/) · [Medium](https://premsinghsodha7.medium.com/) · [DEV](https://dev.to/prem_singh_1997) · [Hashnode](https://hashnode.com/@prem1997)
 
-<p align="center"><strong>Android Developer · Kotlin · Jetpack Compose · Kotlin Multiplatform</strong></p>
+I build mobile applications with clear architecture boundaries, reusable interface components, and testable application rules. My core specialization is native Android with Kotlin and Jetpack Compose, complemented by Kotlin Multiplatform and Compose Multiplatform projects.
 
-<p align="center">
-  Based in Dubai, UAE · Building Android and cross-platform apps at <strong>Synechron</strong>
-</p>
+My engineering focus spans application structure, UI state management, component reuse, data persistence, and automated verification. My public portfolio brings these concerns together through runnable applications, a reusable component library, focused unit tests, and documented build workflows.
 
-I enjoy turning product ideas into polished, useful mobile experiences. My portfolio focuses on clean Kotlin code, thoughtful interface design, reusable Compose components, and shared UI across platforms.
+Finance interfaces are a recurring theme in my work here, including account dashboards, transfer validation, transaction activity, and payment-related UI components.
 
-<p align="center">
-  <strong>6 featured projects</strong> &nbsp;•&nbsp; <strong>4 Android apps</strong> &nbsp;•&nbsp; <strong>2 Kotlin Multiplatform apps</strong>
-</p>
+## Engineering focus
 
----
+- **Application architecture:** explicit boundaries between domain rules, data implementations, ViewModels, and Compose UI.
+- **Reusable components:** shared presentation APIs packaged separately from their consuming application.
+- **State management:** reactive data flows and read-only state exposed to the UI.
+- **Data handling:** local persistence where required, with clear limits for in-memory demonstrations.
+- **Delivery discipline:** documented setup, focused unit tests, and automated build workflows.
+- **Multiplatform development:** shared Compose UI and app behavior with platform-specific entry points.
 
-## Selected work
+## Featured projects
 
-Each card links to the project, its README, and the app screenshot.
+### [FintechFlow](https://github.com/premsinghsodha7/FintechFlow)
 
-<table>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/premsinghsodha7/FintechFlow">
-        <img src="https://raw.githubusercontent.com/premsinghsodha7/FintechFlow/main/screenshots/app-preview.jpg" alt="FintechFlow Android banking dashboard" height="300">
-      </a>
-      <h3><a href="https://github.com/premsinghsodha7/FintechFlow">FintechFlow</a></h3>
-      <p>A fictional banking demo with activity filters, validated transfers, spending insights, card controls, and theme palettes.</p>
-      <p><a href="https://github.com/premsinghsodha7/FintechFlow">Repository</a> · <a href="https://github.com/premsinghsodha7/FintechFlow#readme">Details</a> · <a href="https://raw.githubusercontent.com/premsinghsodha7/FintechFlow/main/screenshots/app-preview.jpg">Screenshot</a></p>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/premsinghsodha7/ComposeKit">
-        <img src="https://raw.githubusercontent.com/premsinghsodha7/ComposeKit/main/screenshots/app-preview.jpg" alt="ComposeKit finance component demo" height="300">
-      </a>
-      <h3><a href="https://github.com/premsinghsodha7/ComposeKit">ComposeKit</a></h3>
-      <p>A reusable Jetpack Compose finance UI kit with a branded demo app and accessible components.</p>
-      <p><a href="https://github.com/premsinghsodha7/ComposeKit">Repository</a> · <a href="https://github.com/premsinghsodha7/ComposeKit#readme">Details</a> · <a href="https://raw.githubusercontent.com/premsinghsodha7/ComposeKit/main/screenshots/app-preview.jpg">Screenshot</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/premsinghsodha7/PantryPal">
-        <img src="https://raw.githubusercontent.com/premsinghsodha7/PantryPal/main/screenshots/app-preview.jpg" alt="PantryPal pantry dashboard" height="300">
-      </a>
-      <h3><a href="https://github.com/premsinghsodha7/PantryPal">PantryPal</a></h3>
-      <p>An offline-first pantry companion with expiry tracking, shopping lists, meal planning, and local Room storage.</p>
-      <p><a href="https://github.com/premsinghsodha7/PantryPal">Repository</a> · <a href="https://github.com/premsinghsodha7/PantryPal#readme">Details</a> · <a href="https://raw.githubusercontent.com/premsinghsodha7/PantryPal/main/screenshots/app-preview.jpg">Screenshot</a></p>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/premsinghsodha7/HabitGarden">
-        <img src="https://raw.githubusercontent.com/premsinghsodha7/HabitGarden/main/screenshots/app-preview.jpg" alt="HabitGarden habit dashboard" height="300">
-      </a>
-      <h3><a href="https://github.com/premsinghsodha7/HabitGarden">HabitGarden</a></h3>
-      <p>A gentle on-device habit tracker with daily check-ins, streaks, weekly insights, and selectable themes.</p>
-      <p><a href="https://github.com/premsinghsodha7/HabitGarden">Repository</a> · <a href="https://github.com/premsinghsodha7/HabitGarden#readme">Details</a> · <a href="https://raw.githubusercontent.com/premsinghsodha7/HabitGarden/main/screenshots/app-preview.jpg">Screenshot</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/premsinghsodha7/FintechFlowKMP">
-        <img src="https://raw.githubusercontent.com/premsinghsodha7/FintechFlowKMP/main/screenshots/app-preview.png" alt="FintechFlow KMP shared finance dashboard" height="300">
-      </a>
-      <h3><a href="https://github.com/premsinghsodha7/FintechFlowKMP">FintechFlow KMP</a></h3>
-      <p>A Compose Multiplatform finance dashboard sharing UI across Android, iOS, and desktop.</p>
-      <p><a href="https://github.com/premsinghsodha7/FintechFlowKMP">Repository</a> · <a href="https://github.com/premsinghsodha7/FintechFlowKMP#readme">Details</a> · <a href="https://raw.githubusercontent.com/premsinghsodha7/FintechFlowKMP/main/screenshots/app-preview.png">Screenshot</a></p>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/premsinghsodha7/HabitGardenKMP">
-        <img src="https://raw.githubusercontent.com/premsinghsodha7/HabitGardenKMP/main/screenshots/app-preview.png" alt="HabitGarden KMP shared habit dashboard" height="300">
-      </a>
-      <h3><a href="https://github.com/premsinghsodha7/HabitGardenKMP">HabitGarden KMP</a></h3>
-      <p>A shared Kotlin Multiplatform habit companion with check-ins, streak insights, and Meadow, Sky, and Dusk themes.</p>
-      <p><a href="https://github.com/premsinghsodha7/HabitGardenKMP">Repository</a> · <a href="https://github.com/premsinghsodha7/HabitGardenKMP#readme">Details</a> · <a href="https://raw.githubusercontent.com/premsinghsodha7/HabitGardenKMP/main/screenshots/app-preview.png">Screenshot</a></p>
-    </td>
-  </tr>
-</table>
+**Android architecture and finance interactions**
 
-All six projects use Kotlin. The Android apps are built with Jetpack Compose; the KMP projects share Compose UI across Android, iOS, and desktop. Finance samples use fictional data only.
+A fictional banking application demonstrating an account dashboard, transaction filters, validated transfers, spending insights, and card controls.
 
----
+**Engineering highlights**
 
-## Toolkit
+- Separates domain models and the repository contract from the in-memory data implementation and Compose screens.
+- Uses a ViewModel to expose read-only dashboard state backed by StateFlow.
+- Parses transfer input into integer minor currency units using decimal arithmetic.
+- Validates missing recipients, invalid amounts, and insufficient funds before updating demo account state.
+- Includes repository tests covering successful transfers and rejected operations.
+- Configures GitHub Actions to run unit tests and assemble the debug APK.
 
-**Languages** &nbsp; Kotlin  
-**Android** &nbsp; Jetpack Compose · Material 3 · Room · Coroutines · ViewModel  
-**Multiplatform** &nbsp; Kotlin Multiplatform · Compose Multiplatform  
-**Workflow** &nbsp; Gradle · Git · GitHub Actions · Android Studio
+**Stack:** Kotlin · Jetpack Compose · Material 3 · ViewModel · StateFlow · JUnit
 
----
+**Scope:** Local, fictional data held in memory. No backend, authentication, bank connection, or payment processing.
 
-## Find me
+[Architecture and setup](https://github.com/premsinghsodha7/FintechFlow#readme) · [App preview](https://raw.githubusercontent.com/premsinghsodha7/FintechFlow/main/screenshots/app-preview.jpg)
 
-<a href="https://www.linkedin.com/in/premsinghsodha7/">LinkedIn</a> &nbsp;·&nbsp;
-<a href="https://premsinghsodha7.medium.com/">Medium</a> &nbsp;·&nbsp;
-<a href="https://dev.to/prem_singh_1997">DEV</a> &nbsp;·&nbsp;
-<a href="https://hashnode.com/@prem1997">Hashnode</a> &nbsp;·&nbsp;
-<a href="https://github.com/premsinghsodha7?tab=repositories">Browse my public repositories</a>
+### [ComposeKit](https://github.com/premsinghsodha7/ComposeKit)
 
-<p align="center"><sub>Thanks for stopping by — explore a project and see what we're building with Kotlin.</sub></p>
+**Reusable finance UI and library boundaries**
+
+A Jetpack Compose component library with a separate runnable demo application. The project demonstrates how finance presentation components can be packaged for integration into another Android app.
+
+**Engineering highlights**
+
+- Separates the reusable `composekit` library from the consuming `demo` module.
+- Provides balance cards, amount fields, transaction rows, account rows, budget summaries, and payment card previews.
+- Includes transfer status and fee breakdown components.
+- Supports enabled and loading action states, amount validation feedback, and selectable theme palettes.
+- Keeps payment execution and financial data storage outside the presentation library.
+- Includes amount-input policy tests.
+- Configures GitHub Actions to run unit tests and assemble the demo APK.
+
+**Stack:** Kotlin · Jetpack Compose · Material 3 · Android Library · Gradle · JUnit
+
+**Scope:** A portfolio UI library with fictional sample values. Components do not process payments or connect to a backend.
+
+[Component catalog and integration](https://github.com/premsinghsodha7/ComposeKit#readme) · [App preview](https://raw.githubusercontent.com/premsinghsodha7/ComposeKit/main/screenshots/app-preview.jpg)
+
+### [PantryPal](https://github.com/premsinghsodha7/PantryPal)
+
+**Local persistence and reactive Android state**
+
+An offline pantry companion with expiry tracking, item search, category filters, shopping lists, and meal planning.
+
+**Engineering highlights**
+
+- Persists pantry entries through Room entities and a DAO.
+- Observes database changes through Flow and exposes entries as ViewModel StateFlow.
+- Uses coroutines for database writes.
+- Separates expiry summaries and display rules into domain functions.
+- Includes unit tests for expiry windows and date labels.
+- Configures GitHub Actions to run unit tests and assemble the debug APK.
+
+**Stack:** Kotlin · Jetpack Compose · Room · Coroutines · Flow · StateFlow · ViewModel
+
+**Scope:** Pantry entries are stored locally on the device, without an account or cloud service.
+
+[Implementation and setup](https://github.com/premsinghsodha7/PantryPal#readme) · [App preview](https://raw.githubusercontent.com/premsinghsodha7/PantryPal/main/screenshots/app-preview.jpg)
+
+## Kotlin Multiplatform projects
+
+### [FintechFlow KMP](https://github.com/premsinghsodha7/FintechFlowKMP)
+
+**Shared finance UI and platform integration**
+
+A Compose Multiplatform finance dashboard with sample account activity, demo transfers, card controls, and light and dark themes.
+
+- Places shared Compose UI and application behavior in `commonMain`.
+- Includes Android and desktop entry points.
+- Provides an iOS Compose controller and device/simulator framework targets.
+- Configures GitHub Actions to assemble Android and compile the desktop UI.
+
+**Stack:** Kotlin Multiplatform · Compose Multiplatform · Material 3 · Gradle
+
+**Scope:** Fictional data held in memory. Building and launching an iOS application requires Xcode.
+
+[Project details](https://github.com/premsinghsodha7/FintechFlowKMP#readme) · [Android preview](https://raw.githubusercontent.com/premsinghsodha7/FintechFlowKMP/main/screenshots/app-preview.png)
+
+### [HabitGarden KMP](https://github.com/premsinghsodha7/HabitGardenKMP)
+
+**Shared habit interactions and Compose UI**
+
+A multiplatform habit companion with daily check-ins, weekly progress, streak insights, and selectable Meadow, Sky, and Dusk themes.
+
+- Shares Compose UI and habit behavior in `commonMain`.
+- Includes Android and desktop entry points and an iOS Compose controller.
+- Keeps the demonstration self-contained with session-based, in-memory state.
+
+**Stack:** Kotlin Multiplatform · Compose Multiplatform · Gradle
+
+**Scope:** Habit progress lasts for the current app session. Building and launching an iOS application requires Xcode.
+
+[Project details](https://github.com/premsinghsodha7/HabitGardenKMP#readme) · [Android preview](https://raw.githubusercontent.com/premsinghsodha7/HabitGardenKMP/main/screenshots/app-preview.png)
+
+## More Android work
+
+### [HabitGarden](https://github.com/premsinghsodha7/HabitGarden)
+
+**On-device storage and testable habit rules**
+
+A native Android habit tracker with daily check-ins, consecutive-day streaks, weekly insights, and selectable themes.
+
+- Stores habit data in private app preferences across app restarts.
+- Separates local storage from habit and progress rules.
+- Includes unit tests for consecutive streak behavior and progress calculations.
+- Configures GitHub Actions to run unit tests and assemble the debug APK.
+
+**Stack:** Kotlin · Jetpack Compose · ViewModel · Local Preferences · JUnit
+
+[Project details](https://github.com/premsinghsodha7/HabitGarden#readme) · [App preview](https://raw.githubusercontent.com/premsinghsodha7/HabitGarden/main/screenshots/app-preview.jpg)
+
+## Technical toolkit
+
+| Area | Technologies and practices |
+| --- | --- |
+| Core language | Kotlin |
+| Android UI | Jetpack Compose, Material 3 |
+| Application structure | Repository contracts, ViewModels, separated domain rules |
+| Asynchronous work and state | Coroutines, Flow, StateFlow |
+| Local storage | Room, app preferences |
+| Multiplatform | Kotlin Multiplatform, Compose Multiplatform |
+| Testing | JUnit, domain-rule tests, repository behavior tests |
+| Build and workflow | Gradle, Git, GitHub Actions, Android Studio |
+
+## Explore and connect
+
+The repositories include implementation details, setup instructions, screenshots, and documented limitations. Finance projects use fictional data and demonstrate UI and application behavior.
+
+[Browse all repositories](https://github.com/premsinghsodha7?tab=repositories) · [Connect on LinkedIn](https://www.linkedin.com/in/premsinghsodha7/)
+
+[Medium](https://premsinghsodha7.medium.com/) · [DEV](https://dev.to/prem_singh_1997) · [Hashnode](https://hashnode.com/@prem1997)
