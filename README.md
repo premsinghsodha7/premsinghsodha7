@@ -1,8 +1,8 @@
 # Hi, I'm Prem Singh 👋
 
-**Lead Mobile Engineer · Android & Kotlin · Jetpack Compose · Kotlin Multiplatform**
+**Lead Mobile Engineer · Android & Kotlin · iOS · Flutter · Kotlin Multiplatform**
 
-Based in Dubai, UAE · Building Android and cross-platform apps at **Synechron**
+Based in Dubai, UAE · Building Mobile and cross-platform apps at **Synechron**
 
 [LinkedIn](https://www.linkedin.com/in/premsinghsodha7/) · [Medium](https://premsinghsodha7.medium.com/) · [DEV](https://dev.to/prem_singh_1997) · [Hashnode](https://hashnode.com/@prem1997)
 
