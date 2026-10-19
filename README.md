@@ -122,6 +122,23 @@ A multiplatform habit companion with daily check-ins, weekly progress, streak in
 
 [Project details](https://github.com/premsinghsodha7/HabitGardenKMP#readme) · [Android preview](https://raw.githubusercontent.com/premsinghsodha7/HabitGardenKMP/main/screenshots/app-preview.png)
 
+### [Roamly KMP](https://github.com/premsinghsodha7/RoamlyKMP)
+
+**A calmer way to plan a trip**
+
+A Kotlin Multiplatform travel planner with a shared Compose interface for trip highlights, a five-day itinerary, budget tracking, and packing.
+
+- Uses shared Compose UI across Android, the iOS framework, and desktop.
+- Includes three visual themes, selectable itinerary days, a sample expense action, and a tappable packing checklist.
+- Provides an Android launcher mark and a vector interface preview in the README.
+- GitHub Actions successfully assembles Android, compiles desktop, and links the iOS simulator framework.
+
+**Stack:** Kotlin Multiplatform · Compose Multiplatform · Material 3 · GitHub Actions
+
+**Scope:** Fictional Lisbon itinerary and sample prices. No travel service, map, account, or payment integration.
+
+[Project details](https://github.com/premsinghsodha7/RoamlyKMP#readme) · [Interface preview](https://raw.githubusercontent.com/premsinghsodha7/RoamlyKMP/main/docs/ui-preview.svg)
+
 ## More Android work
 
 ### [HabitGarden](https://github.com/premsinghsodha7/HabitGarden)
