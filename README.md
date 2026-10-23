@@ -4,6 +4,8 @@
 
 Based in Dubai, UAE · Building Mobile and cross-platform apps at **Synechron**
 
+[Social profile](https://premsinghsodha7.github.io/) · [Android & Kotlin portfolio](https://premsinghsodha7.github.io/portfolio.html)
+
 [LinkedIn](https://www.linkedin.com/in/premsinghsodha7/) · [Medium](https://premsinghsodha7.medium.com/) · [DEV](https://dev.to/prem_singh_1997) · [Hashnode](https://hashnode.com/@prem1997)
 
 I build mobile applications with clear architecture boundaries, reusable interface components, and testable application rules. My core specialization is native Android with Kotlin and Jetpack Compose, complemented by Kotlin Multiplatform and Compose Multiplatform projects.
