@@ -141,6 +141,23 @@ A Kotlin Multiplatform travel planner with a shared Compose interface for trip h
 
 [Project details](https://github.com/premsinghsodha7/RoamlyKMP#readme) · [Interface preview](https://raw.githubusercontent.com/premsinghsodha7/RoamlyKMP/main/docs/ui-preview.svg)
 
+### [A11y Lens KMP](https://github.com/premsinghsodha7/A11yLensKMP)
+
+**A shared accessibility review workbench**
+
+A Kotlin Multiplatform Compose demo for exploring text scaling, contrast, touch target sizes, and team review checks.
+
+- Includes an interactive sample screen, live contrast ratio calculations, target-size checks, and a tappable review guide.
+- Shares the screen across Android, iOS framework, and desktop targets.
+- Uses a branded Android launcher icon and a vector interface preview.
+- GitHub Actions builds Android, compiles desktop, and links the iOS simulator framework.
+
+**Stack:** Kotlin Multiplatform · Compose Multiplatform · Material 3 · GitHub Actions
+
+**Scope:** A design and learning aid. It does not scan other apps or certify WCAG conformance.
+
+[Project details](https://github.com/premsinghsodha7/A11yLensKMP#readme) · [Interface preview](https://raw.githubusercontent.com/premsinghsodha7/A11yLensKMP/main/docs/ui-preview.svg)
+
 ## More Android work
 
 ### [HabitGarden](https://github.com/premsinghsodha7/HabitGarden)
