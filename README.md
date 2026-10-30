@@ -158,6 +158,24 @@ A Kotlin Multiplatform Compose demo for exploring text scaling, contrast, touch 
 
 [Project details](https://github.com/premsinghsodha7/A11yLensKMP#readme) · [Interface preview](https://raw.githubusercontent.com/premsinghsodha7/A11yLensKMP/main/docs/ui-preview.svg)
 
+
+### [Receipt Lens KMP](https://github.com/premsinghsodha7/ReceiptLensKMP)
+
+**Android OCR with a shared receipt-review core**
+
+A Kotlin Multiplatform sample that uses Google ML Kit Text Recognition on Android and shares plain OCR data plus cautious receipt-field suggestions through `commonMain`.
+
+- Keeps image and ML Kit APIs on Android; presents editable candidates beside the original image.
+- Retains multiple review drafts and saves fields only after explicit confirmation.
+- Uses a bundled Latin-script recognizer, a built-in sample receipt, and a session-only shelf.
+- GitHub Actions successfully assembles Android and links the iOS simulator core framework.
+
+**Stack:** Kotlin · Kotlin Multiplatform · Jetpack Compose · Google ML Kit Text Recognition v2
+
+**Scope:** The iOS OCR adapter and UI are not implemented. Receipt suggestions are not verified financial data, and session data is not persisted.
+
+[Project details](https://github.com/premsinghsodha7/ReceiptLensKMP#readme) · [Interface preview](https://raw.githubusercontent.com/premsinghsodha7/ReceiptLensKMP/main/docs/ui-preview.svg)
+
 ## More Android work
 
 ### [HabitGarden](https://github.com/premsinghsodha7/HabitGarden)
